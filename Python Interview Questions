@@ -10,41 +10,41 @@
 10. Library vs Module in python
 11. range() vs xrange() in Python
 12. .py and .pyc files
-List and string slicing in python
-Functions of list, tuple, set and dict
-Initialize empty set, list, tuple and dict
-Enumerate example in python
-Benefits of the data structures
-How to concatenate tuples
-Array vs list, their benefits and uses
-_a, __a, __a__ use of _ (underscores)
-Copy and delete in dict
-Shallow and deep copy
-Anonymous function and lambda function in python, Examples
-Break, Continue and pass statement
-Pickling and Unpickling
-Class and objects in python
-Inheritance in python
-Operator overloading in python
-Abstraction and encapsulation in python
-Diamond problem in inheritance
-Multiple inheritance
-explicit type conversion
-*args and **kwargs uses
-Read and write in python
-Read a PDF document in python
-Exception handling in Pyton
-What is PIP, any alternatives or other package manager in other language
-"f" string, format and replacement operation in Python
-Implement recursion in python 
-Unittest and Pytest in python
-Examples of map, filter and reduce in python
-Monkey Patching use case and its examples
-Dunder or magic methods in python
-Print multiple patterns in python
+13. List and string slicing in python
+14. Functions of list, tuple, set and dict
+15. Initialize empty set, list, tuple and dict
+16. Enumerate example in python
+17. Benefits of the data structures
+18. How to concatenate tuples
+19. Array vs list, their benefits and uses
+20. _a, __a, __a__ use of _ (underscores)
+21. Copy and delete in dict
+22. Shallow and deep copy
+23. Anonymous function and lambda function in python, Examples
+24. Break, Continue and pass statement
+25. Pickling and Unpickling
+26. Class and objects in python
+27. Inheritance in python
+28. Operator overloading in python
+29. Abstraction and encapsulation in python
+30. Diamond problem in inheritance
+31. Multiple inheritance
+32. explicit type conversion
+33. *args and **kwargs uses
+34. Read and write in python
+35. Read a PDF document in python
+36. Exception handling in Pyton
+37. What is PIP, any alternatives or other package manager in other language
+38. "f" string, format and replacement operation in Python
+39. Implement recursion in python 
+40. Unittest and Pytest in python
+41. Examples of map, filter and reduce in python
+42. Monkey Patching use case and its examples
+43. Dunder or magic methods in python
+44. Print multiple patterns in python
 
-Connect SQL in python
-Frameworks of python- Flask and FastAPI
-How to start the app in the framework
-Post and get methods, what are input sources to these methods
-How can we pass send a file to a framwork ing get and post method
+45. Connect SQL in python
+46. Frameworks of python- Flask and FastAPI
+47. How to start the app in the framework
+48. Post and get methods, what are input sources to these methods
+49. How can we pass send a file to a framwork ing get and post method
