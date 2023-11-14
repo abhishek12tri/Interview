@@ -1,1 +1,21 @@
+Handle imbalance dataset, ways and module to handle imbalance dataset.
+Difference between regression and classification
+Loss measure in regression
+Loss measure in classification
+Relation between R-square and adjusted-R-square
+Reason of using recall and precision in different use cases
+What are lazy and eager learners, example of different algorithms
+Difference between entropy and gini index, when to use then
+What are post-pruning and pre-pruening techniques in decision trees
+What is bootstrap
+What is bagging
+Explain working of random forest
+Explain working of xgboost and adaboost, difference between them
+How PCA works and what are other dimension reducing methods
+Why we need dimensionality reduction
+What is multicollinearity, how to handle them
+How to decide features of a ML model
+EDA techniques, their benefits in multiple use cases
 
+Usecases:
+What will happen when we use linear regression best fit concept in logistic regression
