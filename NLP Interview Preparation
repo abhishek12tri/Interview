@@ -10,7 +10,7 @@
 10. What are benefits of LLM model? Why we uses LLM over bert in chatbots?
 11. Lemmatisation vs Stemming, what are different types of them?
 12. Different types of prompts (Prompt Engineering).
-13. 
+13. How to handle imbalance dataset in text?
 
 ## UseCases
 1. Perform document classification, on a number of documents, no classes are given.
