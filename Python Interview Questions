@@ -2,14 +2,14 @@
 2. Decorators in Python.
 3. Multiprocessing vs Multithreading, code example.
 4 What is GIL, how does it works?
-4. Mutuable vs imutable data types.
-5. Built in data types
-6. Benefits of dictionary over list.
-7. Generators vs Iterators in Python, Examples, use of yield
-8. Purpose of __init__ function, what does it serves
-9. Library vs Module in python
-10. range() vs xrange() in Python
-.py and .pyc files
+5. Mutuable vs imutable data types.
+6. Built in data types
+7. Benefits of dictionary over list.
+8. Generators vs Iterators in Python, Examples, use of yield
+9. Purpose of __init__ function, what does it serves
+10. Library vs Module in python
+11. range() vs xrange() in Python
+12. .py and .pyc files
 List and string slicing in python
 Functions of list, tuple, set and dict
 Initialize empty set, list, tuple and dict
