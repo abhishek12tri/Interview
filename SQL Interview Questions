@@ -6,3 +6,7 @@
 6. SQL window functions rank, dense rank, ... ntile
 7. Triggers & Stored procedure in SQL
 8. Perform indexing in table
+
+
+## Pandas
+1. Your method to process millions of record in dataframe
