@@ -9,3 +9,5 @@ This repository serves as a comprehensive collection of interview questions rela
 [Machine Learning](https://github.com/abhishek12tri/Interview/blob/main/ML%20Interview%20Questions)
 
 [SQL](https://github.com/abhishek12tri/Interview/blob/main/SQL%20Interview%20Questions)
+
+[NLP](https://github.com/abhishek12tri/Interview/blob/main/NLP%20Interview%20Preparation)
