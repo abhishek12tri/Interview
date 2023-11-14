@@ -1,1 +1,17 @@
+1. How Word2Vec Works?
+2. Types of Word2Vec?
+3. What will be output of Word2Vec?
+4. Difference between Word2Vec and TFIDF for custom corpus
+5. Corpus vs Documents
+6. What are Tokenization and Embeddings?
+7. Types of tokenization, Different types of tokenization related to bert (Pretrained tokenization)
+8. Benefits of Bert over RNN or LSTM
+9. How to handle time out in LLM models?
+10. What are benefits of LLM model? Why we uses LLM over bert in chatbots?
+11. Lemmatisation vs Stemming, what are different types of them?
+12. Different types of prompts (Prompt Engineering).
+13. 
 
+## UseCases
+1. Perform document classification, on a number of documents, no classes are given.
+2. How chatbot will work, we only have 30 Questions and 30 related answers?
