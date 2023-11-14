@@ -12,7 +12,9 @@
 12. Different types of prompts (Prompt Engineering).
 13. How to handle imbalance dataset in text?
 14. How to handle overfitting and Underfitting dataset in text?
+15. What are pretrained embedding models?
 
 ## UseCases
 1. Perform document classification, on a number of documents, no classes are given.
 2. How chatbot will work, we only have 30 Questions and 30 related answers?
+3. 
