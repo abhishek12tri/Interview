@@ -18,3 +18,7 @@
 ## UseCases
 1. Perform document classification, on a number of documents, no classes are given.
 2. How chatbot will work, we only have 30 Questions and 30 related answers?
+
+## Generative AI
+1. Generate SQL or Pandas query for a statement, Perform query correction, and time managemement after performing multiple queries.
+2. Open AI API uses to generate different templates
