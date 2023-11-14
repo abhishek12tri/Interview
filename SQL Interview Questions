@@ -1,0 +1,8 @@
+1. Types of join.
+2. Inner, outer, left, right join output number of rows when joining rows have some null values
+3. 2nd highest salary in each department
+4. Updated salaries of manager by 10%.
+5. Delete duplicate records from a table
+6. SQL window functions rank, dense rank, ... ntile
+7. Triggers & Stored procedure in SQL
+8. Perform indexing in table
