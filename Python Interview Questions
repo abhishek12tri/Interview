@@ -44,15 +44,6 @@ Dunder or magic methods in python
 Print multiple patterns in python
 
 Connect SQL in python
-
-
-var addLineNumbers = require('add-line-numbers')
-var stdin = require('get-stdin')
-
-stdin(function (body) {
-  var src = addLineNumbers(body.toString())
-  process.stdout.write(src + '\n')
-})
 Frameworks of python- Flask and FastAPI
 How to start the app in the framework
 Post and get methods, what are input sources to these methods
