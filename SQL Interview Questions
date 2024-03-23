@@ -1,3 +1,16 @@
+What are SQL dialects
+Types of SQL commands
+Aggregate and Scaler functions
+What is a constraint, give examples
+Difference between a primary key and a unique key
+Types of SQL operators
+Delete truncate and drop statements
+Sort records in a table
+Create new column full_name by concating first_name and last_name column
+SQL pattern matching statements
+
+
+
 1. Types of join.
 2. Inner, outer, left, right join output number of rows when joining rows have some null values
 3. 2nd highest salary in each department
@@ -6,6 +19,7 @@
 6. SQL window functions rank, dense rank, ... ntile
 7. Triggers & Stored procedure in SQL
 8. Perform indexing in table
+Get the returning customer data from a mart sales table
 
 
 ## Pandas
