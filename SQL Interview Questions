@@ -8,7 +8,10 @@ Delete truncate and drop statements
 Sort records in a table
 Create new column full_name by concating first_name and last_name column
 SQL pattern matching statements
-
+Creating a View
+Creating stored procedure
+Normalization in SQL
+Rename a column of a table
 
 
 1. Types of join.
@@ -20,7 +23,7 @@ SQL pattern matching statements
 7. Triggers & Stored procedure in SQL
 8. Perform indexing in table
 Get the returning customer data from a mart sales table
-
+Get difference between sum of even id's and odd id's
 
 ## Pandas
 1. Your method to process millions of record in dataframe
