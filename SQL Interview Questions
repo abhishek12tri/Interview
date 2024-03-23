@@ -12,6 +12,8 @@ Creating a View
 Creating stored procedure
 Normalization in SQL
 Rename a column of a table
+What is Collation? Types of collation sensitivity.
+
 
 
 1. Types of join.
@@ -24,6 +26,7 @@ Rename a column of a table
 8. Perform indexing in table
 Get the returning customer data from a mart sales table
 Get difference between sum of even id's and odd id's
+Create a empty table of the same schema of the other table
 
 ## Pandas
 1. Your method to process millions of record in dataframe
