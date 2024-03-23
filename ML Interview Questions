@@ -16,6 +16,7 @@ Why we need dimensionality reduction
 What is multicollinearity, how to handle them
 How to decide features of a ML model
 EDA techniques, their benefits in multiple use cases
+Difference between loss and cost function
 
 Usecases:
 What will happen when we use linear regression best fit concept in logistic regression
