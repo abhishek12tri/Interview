@@ -1,7 +1,7 @@
 1. Benefits of using numpy. Why not List?
 2. Decorators in Python.
 3. Multiprocessing vs Multithreading, code example.
-4 What is GIL, how does it works?
+4. What is GIL, how does it works?
 5. Mutuable vs imutable data types.
 6. Built in data types
 7. Benefits of dictionary over list.
@@ -48,3 +48,9 @@
 47. How to start the app in the framework
 48. Post and get methods, what are input sources to these methods
 49. How can we pass send a file to a framwork ing get and post method
+
+
+Programming:
+1. Sort a dictionary by values.
+2. Get the most frequent words from paragraph
+3. 
