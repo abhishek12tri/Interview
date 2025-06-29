@@ -14,6 +14,8 @@
 14. How to handle overfitting and Underfitting dataset in text?
 15. What are pretrained embedding models?
 16. What are vector store DB? Mention benefits.
+17. Which is better Dense or Sparse vector?
+18. Attention Mechanism, Difference between multi head attention, and cross head attention. 
 
 ## UseCases
 1. Perform document classification, on a number of documents, no classes are given.
