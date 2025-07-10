@@ -2,4 +2,7 @@
 2. What are multiple audio preprocessing techniques?
 3. What is Speaker diarization? How it works?
 4. What is MFCC, output of MFCC?
-
+5. Dimension of Audio data seperately and with video
+6. Processiong audio signals in deep learning
+7. Model to handle audio signals
+8. Processing techniques of audios
