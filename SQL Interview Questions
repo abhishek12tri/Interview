@@ -13,6 +13,7 @@ Creating stored procedure
 Normalization in SQL
 Rename a column of a table
 What is Collation? Types of collation sensitivity.
+Differnce between structured, unstructured and vector databases
 
 
 
@@ -30,3 +31,5 @@ Create a empty table of the same schema of the other table
 
 ## Pandas
 1. Your method to process millions of record in dataframe
+2. Get region wise total sales from 2 datframe joining
+3. Data Inputation for outliers from dataframe
