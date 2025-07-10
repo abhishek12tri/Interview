@@ -18,11 +18,22 @@ How to decide features of a ML model
 EDA techniques, their benefits in multiple use cases
 Difference between loss and cost function
 Handling imbalance dataset structured data, textual data and image data.
+Detection and handling of multi-collinearity
+Explain ROC-AUC curve
+Bagging vs Boosting, their base learner and differences
+Advantages and disadvantages of decision trees
+PCA, how does it works
+
+
 
 Usecases:
 What will happen when we use linear regression best fit concept in logistic regression
 
 
+### Statistics
+1. Z-score calculation and outlier imputation in dataframe.
+2. Hypothesis testing and explain null and alternate hypothesis
+3. Explain type I and type II error, correlate it with confusioin matrix
 
 100 ML Interview Questions- CampusX
 
