@@ -6,6 +6,7 @@
 6. What are Tokenization and Embeddings?
 7. Types of tokenization, Different types of tokenization related to bert (Pretrained tokenization)
 8. Benefits of Bert over RNN or LSTM
+how dropout can be applied in these lstm
 9. How to handle time out in LLM models? Langchain solution for it...
 10. What are benefits of LLM model? Why we uses LLM over bert in chatbots?
 11. Lemmatisation vs Stemming, what are different types of them?
@@ -18,6 +19,7 @@
 18. Attention Mechanism, Difference between multi head attention, and cross head attention. 
 
 ## UseCases
+create a lstm network training for next charaxter prediction or next word prediction
 1. Perform document classification, on a number of documents, no classes are given.
 2. How chatbot will work, we only have 30 Questions and 30 related answers?
 
