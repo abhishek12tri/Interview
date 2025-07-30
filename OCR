@@ -1,0 +1,156 @@
+## 🟢 **BASICS OF OCR**
+
+1. What is OCR?
+2. What are common use cases of OCR?
+3. What are the challenges in OCR?
+   * Handwriting
+   * Blurred images
+   * Noise
+
+4. What is the difference between OCR and ICR (Intelligent Character Recognition)?
+5. How does OCR work at a high level?
+6. What are the differences between traditional OCR (like Tesseract) and deep learning-based OCR?
+7. What is the difference between printed text OCR and handwriting OCR?
+
+---
+
+## 🟡 **OCR PIPELINE COMPONENTS**
+
+8. Explain the typical OCR pipeline.
+   * Preprocessing
+   * Text detection
+   * Text recognition
+   * Post-processing
+
+9. What image preprocessing techniques are useful in OCR?
+   * Binarization
+   * Denoising
+   * Deskewing
+   * Thresholding (Otsu)
+   * Morphological operations
+
+10. How is text segmentation handled in OCR?
+11. What is the role of bounding boxes or contours in OCR?
+
+---
+
+## 🔵 **PRETRAINED OCR MODELS**
+
+12. What are popular pretrained OCR tools and models?
+* Tesseract
+* EasyOCR
+* PaddleOCR
+* Google Vision API
+* AWS Textract
+* Microsoft Azure OCR
+
+13. How does Tesseract OCR work internally?
+14. How do you use EasyOCR for multi-language support?
+15. What are the limitations of pretrained OCR models?
+16. How to fine-tune a pretrained OCR model for custom fonts or layouts?
+
+---
+
+## 🔴 **DEEP LEARNING MODELS FOR OCR**
+
+17. Which deep learning architectures are used in modern OCR systems?
+* CNN + RNN + CTC (e.g., CRNN)
+* Transformers (e.g., TrOCR, Donut)
+* Attention mechanisms
+
+18. Explain the CRNN architecture.
+19. What is Connectionist Temporal Classification (CTC) loss, and why is it used in OCR?
+20. How is sequence-to-sequence modeling applied in OCR?
+21. How do vision transformers enhance OCR accuracy?
+
+---
+
+## 🟠 **TRAINING A CUSTOM OCR MODEL**
+
+22. What are the steps to train a custom OCR model?
+
+* Dataset preparation
+* Text detection and recognition
+* Model training
+* Evaluation
+
+23. How do you collect or generate a dataset for OCR training?
+24. What are some common OCR datasets?
+
+* ICDAR
+* SynthText
+* IAM Handwriting
+
+25. How do you annotate OCR data (bounding boxes and transcriptions)?
+26. Which libraries or tools can be used for training custom OCR models?
+
+* TensorFlow/Keras
+* PyTorch
+* MMOCR (OpenMMLab)
+* Detectron2
+
+27. How to handle different languages or scripts in OCR?
+28. How to improve OCR accuracy for noisy documents or stylized fonts?
+29. What are the key hyperparameters in OCR model training?
+30. How do you handle class imbalance in OCR characters (e.g., rare characters)?
+
+---
+
+## 🟣 **ADVANCED OCR TOPICS**
+
+31. How does OCR handle rotated or skewed text?
+32. How do spatial transformers help in OCR?
+33. What is end-to-end OCR (like Donut by NAVER)?
+34. How does OCR work for documents with complex layouts (tables, forms)?
+35. What are OCR techniques for scene text recognition (e.g., street signs)?
+36. How is handwriting OCR different from printed OCR?
+37. What is the role of language models in OCR post-processing (e.g., spelling correction)?
+38. How do generative OCR models work?
+39. What is OCR post-correction and how is it implemented?
+40. What is knowledge-based OCR correction (e.g., using dictionaries or NER)?
+
+---
+
+## 🧠 **EVALUATION & METRICS**
+
+41. How do you evaluate the performance of an OCR system?
+
+* CER (Character Error Rate)
+* WER (Word Error Rate)
+* BLEU for sequences
+
+42. What are common sources of OCR error?
+43. How do you debug OCR prediction failures?
+
+---
+
+## 🚀 **DEPLOYMENT & OPTIMIZATION**
+
+44. How do you deploy an OCR model to production?
+
+* Batch processing
+* Real-time inference (REST API, Flask/FastAPI)
+
+45. How to optimize OCR inference for mobile or edge devices?
+
+* Quantization
+* ONNX conversion
+
+46. What is OCR document layout analysis?
+47. How to combine OCR with NLP for intelligent document understanding?
+
+* Key-value extraction
+* Named entity recognition
+* Form parsing
+
+---
+
+## 🧩 **OCR IN INDUSTRY CONTEXT**
+
+48. What are OCR applications in finance, healthcare, and logistics?
+49. How does OCR integrate with RPA (Robotic Process Automation)?
+50. How do you combine OCR with Search (e.g., document indexing)?
+
+---
+
+Would you like a cheat sheet or notes format for these questions, or maybe a step-by-step guide for training a custom OCR model?
