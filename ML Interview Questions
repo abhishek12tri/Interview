@@ -14,7 +14,7 @@ Explain working of random forest
 Explain working of xgboost and adaboost, difference between them
 How PCA works and what are other dimension reducing methods
 Why we need dimensionality reduction
-What is multicollinearity, how to handle them
+What is multicollinearity, how to detect and handle them
 How to decide features of a ML model
 EDA techniques, their benefits in multiple use cases
 Difference between loss and cost function
